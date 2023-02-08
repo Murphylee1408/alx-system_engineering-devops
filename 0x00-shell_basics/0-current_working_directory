@@ -1,16 +1,2 @@
 #!/bin/bash
-[Got]
-
-
-
-(0 chars long)
-
-
-
-[Expected]
-
-/tmp/correction/2759760156551285836755626033035826478992_5/205/278600/0x00-shell_basics
-
-
-
-(88 chars long)
+pwd
